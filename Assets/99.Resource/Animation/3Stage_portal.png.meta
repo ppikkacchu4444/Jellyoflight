@@ -1,0 +1,707 @@
+fileFormatVersion: 2
+guid: b820252d1f85e344183cdc40d0a223b6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 3Stage_portal_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5520
+        width: 1530
+        height: 1380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f737a7cf809904b40ba67c7000ec1fba
+      internalID: -195788605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3Stage_portal_1
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 5520
+        width: 1530
+        height: 1380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe995d11933b1ff47a3fc817bc2ca9c7
+      internalID: -90500934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3Stage_portal_2
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 5520
+        width: 1530
+        height: 1380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef372d066b464746a5970512b23c2ab
+      internalID: -1163955216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3Stage_portal_3
+      rect:
+        serializedVersion: 2
+        x: 4590
+        y: 5520
+        width: 1530
+        height: 1380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bb17f3df2a0f94487969433a188b46
+      internalID: 2064149836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3Stage_portal_4
+      rect:
+        serializedVersion: 2
+        x: 6120
+        y: 5520
+        width: 1530
+        height: 1380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb42b4a2d29e97644bd6ef245ebfa426
+      internalID: -2034111712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3Stage_portal_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4140
+        width: 1530
+        height: 1380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c72430bf055128498dc031b91ea03cc
+      internalID: -1229986521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3Stage_portal_6
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 4140
+        width: 1530
+        height: 1380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2837d89c958f44b953b9e426d382c3
+      internalID: 1863898515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3Stage_portal_7
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 4140
+        width: 1530
+        height: 1380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a7b2fc425a71a4a9565adf665036a0
+      internalID: 1312849485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3Stage_portal_8
+      rect:
+        serializedVersion: 2
+        x: 4590
+        y: 4140
+        width: 1530
+        height: 1380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c4ff0334a409041a2efeb3c607abf5
+      internalID: 1941612647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3Stage_portal_9
+      rect:
+        serializedVersion: 2
+        x: 6120
+        y: 4140
+        width: 1530
+        height: 1380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172e60f03509f384f86aeb216aacaf1b
+      internalID: 577794403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3Stage_portal_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2760
+        width: 1530
+        height: 1380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349b2c1762bfa224b9efb3ba686fb21c
+      internalID: 561923416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3Stage_portal_11
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 2760
+        width: 1530
+        height: 1380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca64841f1a78654d880bbcc6f64616c
+      internalID: -1928101361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3Stage_portal_12
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 2760
+        width: 1530
+        height: 1380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e57afea567ad7a4aa13b61870a283a6
+      internalID: 1709308928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3Stage_portal_13
+      rect:
+        serializedVersion: 2
+        x: 4590
+        y: 2760
+        width: 1530
+        height: 1380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f92c1e1f7f04f41a8874b3ed744150
+      internalID: -2104845400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3Stage_portal_14
+      rect:
+        serializedVersion: 2
+        x: 6120
+        y: 2760
+        width: 1530
+        height: 1380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2fdb1391cfd87489942a4f974e101b
+      internalID: -378143804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3Stage_portal_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1380
+        width: 1530
+        height: 1380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed623fcd0ec68341b9678c8aea60961
+      internalID: 1421461272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3Stage_portal_16
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1380
+        width: 1530
+        height: 1380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7924e617bb7204b8bf60f45014c1f0
+      internalID: -697878551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3Stage_portal_17
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 1380
+        width: 1530
+        height: 1380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c4b4d471ed5b3468d272ed3477149e
+      internalID: 1381659996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3Stage_portal_18
+      rect:
+        serializedVersion: 2
+        x: 4590
+        y: 1380
+        width: 1530
+        height: 1380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e766d8e3240bf4d811c520ff2435a2
+      internalID: 1182550588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3Stage_portal_19
+      rect:
+        serializedVersion: 2
+        x: 6120
+        y: 1380
+        width: 1530
+        height: 1380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d50efd7e93977f4cbb49028b49167f5
+      internalID: 1823039091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3Stage_portal_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1530
+        height: 1380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd37eb6f52d1887439b122f137b7d274
+      internalID: 1930235264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3Stage_portal_21
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 0
+        width: 1530
+        height: 1380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7de69ebade62e459f1996e4cf68781
+      internalID: -1726366418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3Stage_portal_22
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 0
+        width: 1530
+        height: 1380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb35b98669aea14a95ac8db89331f1c
+      internalID: 898964533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3Stage_portal_23
+      rect:
+        serializedVersion: 2
+        x: 4590
+        y: 0
+        width: 1530
+        height: 1380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0817812b1edc245b9f2510c0ec6438
+      internalID: -1496623880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3Stage_portal_24
+      rect:
+        serializedVersion: 2
+        x: 6120
+        y: 0
+        width: 1530
+        height: 1380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e238d9be9472c449ed4c4c55c09aa3
+      internalID: 566638637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3d7422462e8e93b46833086e3fb2db91
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":5.0},"gridSpriteSize":{"x":1530.0,"y":1380.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      3Stage_portal_0: -195788605
+      3Stage_portal_1: -90500934
+      3Stage_portal_10: 561923416
+      3Stage_portal_11: -1928101361
+      3Stage_portal_12: 1709308928
+      3Stage_portal_13: -2104845400
+      3Stage_portal_14: -378143804
+      3Stage_portal_15: 1421461272
+      3Stage_portal_16: -697878551
+      3Stage_portal_17: 1381659996
+      3Stage_portal_18: 1182550588
+      3Stage_portal_19: 1823039091
+      3Stage_portal_2: -1163955216
+      3Stage_portal_20: 1930235264
+      3Stage_portal_21: -1726366418
+      3Stage_portal_22: 898964533
+      3Stage_portal_23: -1496623880
+      3Stage_portal_24: 566638637
+      3Stage_portal_3: 2064149836
+      3Stage_portal_4: -2034111712
+      3Stage_portal_5: -1229986521
+      3Stage_portal_6: 1863898515
+      3Stage_portal_7: 1312849485
+      3Stage_portal_8: 1941612647
+      3Stage_portal_9: 577794403
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

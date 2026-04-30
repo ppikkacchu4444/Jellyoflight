@@ -1,0 +1,342 @@
+fileFormatVersion: 2
+guid: de0916542eccba14b98f6d3e80d05c20
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GPT_Image_1_VFX_sprite_sheet_of_a_festive_explosion_rainbow_co_0_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 683
+        width: 290
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48403b2697a73c4b87bb6c493b357d0
+      internalID: -125239391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GPT_Image_1_VFX_sprite_sheet_of_a_festive_explosion_rainbow_co_0_1
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 683
+        width: 290
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd379330f683294caafdb43c12aeac0
+      internalID: 668300243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GPT_Image_1_VFX_sprite_sheet_of_a_festive_explosion_rainbow_co_0_2
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 683
+        width: 290
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513025d2422b656478e36b9476b310eb
+      internalID: -1640684071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GPT_Image_1_VFX_sprite_sheet_of_a_festive_explosion_rainbow_co_0_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 374
+        width: 290
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db095dc766a3f4a45aa1fa0ceadd8c2b
+      internalID: -1219599376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GPT_Image_1_VFX_sprite_sheet_of_a_festive_explosion_rainbow_co_0_4
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 376
+        width: 290
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c10ec40a3acb1f40b887ccd914d8dbe
+      internalID: -68564477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GPT_Image_1_VFX_sprite_sheet_of_a_festive_explosion_rainbow_co_0_5
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 376
+        width: 290
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b923536141e46c4d95913ab84087dd7
+      internalID: -1674989520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GPT_Image_1_VFX_sprite_sheet_of_a_festive_explosion_rainbow_co_0_6
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 84
+        width: 290
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1300b824baa04274383890e75ada3c19
+      internalID: 142466588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GPT_Image_1_VFX_sprite_sheet_of_a_festive_explosion_rainbow_co_0_7
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 83
+        width: 290
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d05c58157e254246aac627f549f34b6
+      internalID: -931226406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GPT_Image_1_VFX_sprite_sheet_of_a_festive_explosion_rainbow_co_0_8
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 82
+        width: 290
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04191cd842d57b409c7cfeff2c4a882
+      internalID: 1581647008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 28158e160a386f34ead12f4ecb2876a9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":3.0,"y":3.0},"gridSpriteSize":{"x":341.0,"y":341.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+      - key: SpriteEditor.SliceOnImport
+        value: False
+    nameFileIdTable:
+      GPT_Image_1_VFX_sprite_sheet_of_a_festive_explosion_rainbow_co_0_0: -125239391
+      GPT_Image_1_VFX_sprite_sheet_of_a_festive_explosion_rainbow_co_0_1: 668300243
+      GPT_Image_1_VFX_sprite_sheet_of_a_festive_explosion_rainbow_co_0_2: -1640684071
+      GPT_Image_1_VFX_sprite_sheet_of_a_festive_explosion_rainbow_co_0_3: -1219599376
+      GPT_Image_1_VFX_sprite_sheet_of_a_festive_explosion_rainbow_co_0_4: -68564477
+      GPT_Image_1_VFX_sprite_sheet_of_a_festive_explosion_rainbow_co_0_5: -1674989520
+      GPT_Image_1_VFX_sprite_sheet_of_a_festive_explosion_rainbow_co_0_6: 142466588
+      GPT_Image_1_VFX_sprite_sheet_of_a_festive_explosion_rainbow_co_0_7: -931226406
+      GPT_Image_1_VFX_sprite_sheet_of_a_festive_explosion_rainbow_co_0_8: 1581647008
+      GPT_Image_1_VFX_sprite_sheet_of_a_festive_explosion_rainbow_co_0_9: 272208337
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

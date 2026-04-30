@@ -1,0 +1,729 @@
+fileFormatVersion: 2
+guid: 0f36ffb4ea2ea3c4a99847ad9022f0dd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 57
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2stage_barriermob_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1774
+        width: 540
+        height: 373
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb89798f62fab094bbe57ce767ff48e2
+      internalID: 179006217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2stage_barriermob_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1774
+        width: 538
+        height: 373
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a604e51fbc323654fba0d96a4e7b894c
+      internalID: -1728806586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2stage_barriermob_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1774
+        width: 537
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70030be8e26401847a90cf92810965a1
+      internalID: 276704070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2stage_barriermob_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 1774
+        width: 538
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042476ade4305e040a672c416e37bee9
+      internalID: -304252680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2stage_barriermob_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 1774
+        width: 535
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c157bff2feb944a9af06f23d2f8ad5
+      internalID: -1196377377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2stage_barriermob_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1341
+        width: 536
+        height: 395
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8888808bbab5f4788f4195189cf17d
+      internalID: -680221875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2stage_barriermob_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1341
+        width: 535
+        height: 393
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602b0015ea09d0c4aaff4d092e10031d
+      internalID: -369880160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2stage_barriermob_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1341
+        width: 535
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74335406dcefdc4aae8702b47d39518
+      internalID: 615976812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2stage_barriermob_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 1341
+        width: 537
+        height: 388
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e97ae706973b3b4999aae3a7eb48071
+      internalID: 713290871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2stage_barriermob_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 1341
+        width: 538
+        height: 381
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d29258836febc40866bb53ecf045c7
+      internalID: -2046481445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2stage_barriermob_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 906
+        width: 538
+        height: 377
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbff6327397db44d974464b281f4de3
+      internalID: -132518496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2stage_barriermob_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 906
+        width: 539
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e4dcbc4b8808c4b99105e16c14f6d8
+      internalID: 224939681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2stage_barriermob_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 906
+        width: 540
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d6f324342c2cf4a909205aa3291b36
+      internalID: -706579790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2stage_barriermob_Idle_26
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 906
+        width: 542
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586708a41b45d5541a14562cde1d9de0
+      internalID: -1508755408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2stage_barriermob_Idle_28
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 906
+        width: 547
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866a5a97619bf7f40974616d3a00fc70
+      internalID: -949195267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2stage_barriermob_Idle_30
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 471
+        width: 553
+        height: 357
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75ffb01eb406804ab04cf22fec5123e
+      internalID: -1870046812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2stage_barriermob_Idle_32
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 471
+        width: 552
+        height: 357
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed30817036c42a4586b6f26b449fea6
+      internalID: -925290132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2stage_barriermob_Idle_34
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 471
+        width: 553
+        height: 357
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95672f136100b2a4eb2c60b22e0320dc
+      internalID: -2146508201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2stage_barriermob_Idle_36
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 471
+        width: 545
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802992d886c6af44581f7482ad0c5736
+      internalID: -1678879333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2stage_barriermob_Idle_38
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 471
+        width: 544
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f613b748ff0be42a85295de42d5046
+      internalID: 1614494241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2stage_barriermob_Idle_40
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 38
+        width: 542
+        height: 365
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca43b69c7b922244a1c3c3f1f7249ab
+      internalID: -24422924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2stage_barriermob_Idle_42
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 38
+        width: 540
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d26b69dccdefe45a83fad172bd99f5
+      internalID: -395858014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2stage_barriermob_Idle_44
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 38
+        width: 540
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e434d35ce428ed54c9b62c0833ac9feb
+      internalID: 1243054791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2stage_barriermob_Idle_45
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 38
+        width: 541
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636c8f6de9f231f4192fd33c9066ddd1
+      internalID: -1090782476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2stage_barriermob_Idle_46
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 38
+        width: 539
+        height: 373
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e4c15f7fab3e44b872e71371dee259
+      internalID: -1215561428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b95b14f7e9c9d974297bb6463eeec5ae
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      2stage_barriermob_Idle_0: 179006217
+      2stage_barriermob_Idle_1: -304974874
+      2stage_barriermob_Idle_10: -680221875
+      2stage_barriermob_Idle_11: 1739634954
+      2stage_barriermob_Idle_12: -369880160
+      2stage_barriermob_Idle_13: -798809981
+      2stage_barriermob_Idle_14: 615976812
+      2stage_barriermob_Idle_15: -1410668378
+      2stage_barriermob_Idle_16: 713290871
+      2stage_barriermob_Idle_17: 726151400
+      2stage_barriermob_Idle_18: -2046481445
+      2stage_barriermob_Idle_19: 1702557674
+      2stage_barriermob_Idle_2: -1728806586
+      2stage_barriermob_Idle_20: -132518496
+      2stage_barriermob_Idle_21: -1649190737
+      2stage_barriermob_Idle_22: 224939681
+      2stage_barriermob_Idle_23: 590103635
+      2stage_barriermob_Idle_24: -706579790
+      2stage_barriermob_Idle_25: 1506929319
+      2stage_barriermob_Idle_26: -1508755408
+      2stage_barriermob_Idle_27: 293935723
+      2stage_barriermob_Idle_28: -949195267
+      2stage_barriermob_Idle_29: -1865083197
+      2stage_barriermob_Idle_3: -1014440934
+      2stage_barriermob_Idle_30: -1870046812
+      2stage_barriermob_Idle_31: 503620186
+      2stage_barriermob_Idle_32: -925290132
+      2stage_barriermob_Idle_33: 360542422
+      2stage_barriermob_Idle_34: -2146508201
+      2stage_barriermob_Idle_35: -1521011902
+      2stage_barriermob_Idle_36: -1678879333
+      2stage_barriermob_Idle_37: 36442561
+      2stage_barriermob_Idle_38: 1614494241
+      2stage_barriermob_Idle_39: 1971677155
+      2stage_barriermob_Idle_4: 276704070
+      2stage_barriermob_Idle_40: -24422924
+      2stage_barriermob_Idle_41: -1875316745
+      2stage_barriermob_Idle_42: -395858014
+      2stage_barriermob_Idle_43: -353935936
+      2stage_barriermob_Idle_44: 1243054791
+      2stage_barriermob_Idle_45: -1090782476
+      2stage_barriermob_Idle_46: -1215561428
+      2stage_barriermob_Idle_5: -1617990285
+      2stage_barriermob_Idle_6: -304252680
+      2stage_barriermob_Idle_7: 1367308139
+      2stage_barriermob_Idle_8: -1196377377
+      2stage_barriermob_Idle_9: -1257094520
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

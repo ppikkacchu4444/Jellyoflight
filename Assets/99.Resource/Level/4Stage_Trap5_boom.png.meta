@@ -1,0 +1,707 @@
+fileFormatVersion: 2
+guid: caddbce42c7f0a948802c3731426867c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 70
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 4Stage_Trap5_boom_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2176
+        width: 736
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1942731f072ee7a4a9792baa940d85fb
+      internalID: -204836738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Stage_Trap5_boom_1
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 2176
+        width: 736
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e9935355bfdbf47b4493e4da4b2394
+      internalID: -814640812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Stage_Trap5_boom_2
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 2176
+        width: 736
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e307e2d94442646af5eb27f428b511
+      internalID: -1423169536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Stage_Trap5_boom_3
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 2176
+        width: 736
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0787075d54043954189102c7aa55e90c
+      internalID: -245703910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Stage_Trap5_boom_4
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 2176
+        width: 736
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c011d89c2af574468b338cd0dd06212
+      internalID: 14116058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Stage_Trap5_boom_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1632
+        width: 736
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9558bf90b93af794ca607837309c2f5a
+      internalID: -1321644127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Stage_Trap5_boom_6
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1632
+        width: 736
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f287bdfb71f15ce4cb2c0202da4e4feb
+      internalID: -2138155691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Stage_Trap5_boom_7
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1632
+        width: 736
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a9c68d64a343d4b89fc6e6c8fcfff1
+      internalID: 1354748265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Stage_Trap5_boom_8
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 1632
+        width: 736
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0100c680fef6a14a9f52b90dfa9a466
+      internalID: -1391224920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Stage_Trap5_boom_9
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 1632
+        width: 736
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c9739c05290e3449ec815c02f930d3
+      internalID: 856035173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Stage_Trap5_boom_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 736
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6896c0ef98ce3c4793586fe16e42fb3
+      internalID: 702143511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Stage_Trap5_boom_11
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1088
+        width: 736
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cba2439234261643a742004b7c101a9
+      internalID: -351382459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Stage_Trap5_boom_12
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1088
+        width: 736
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a832ae47beadf4ea320484f9c05f8c
+      internalID: -1395598550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Stage_Trap5_boom_13
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 1088
+        width: 736
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008463228659eed44a2c6261a34f7167
+      internalID: 1979052486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Stage_Trap5_boom_14
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 1088
+        width: 736
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63aa62a6b807e7848abbc233a1a045ab
+      internalID: -1154482337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Stage_Trap5_boom_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 736
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c91e36ec74fa8479575fac13fa73fd
+      internalID: -1481657053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Stage_Trap5_boom_16
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 544
+        width: 736
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036885cc4fdc4ab44b6b0931d4fe80be
+      internalID: 1199358029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Stage_Trap5_boom_17
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 544
+        width: 736
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca218d0026d839428a97904da2f2a3a
+      internalID: -1178551424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Stage_Trap5_boom_18
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 544
+        width: 736
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cb00c0b05686c4e9f74d4a528f3404
+      internalID: 61235244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Stage_Trap5_boom_19
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 544
+        width: 736
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c6aab6a7800924494b5d2e7ee6e969
+      internalID: -2091822234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Stage_Trap5_boom_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 736
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a386ebc2cf74b4fa7fc9791e735bbf
+      internalID: 1839617919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Stage_Trap5_boom_21
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 0
+        width: 736
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9cfeac56286d144acf3dd5d90ed899
+      internalID: -1946865857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Stage_Trap5_boom_22
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 0
+        width: 736
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0acd58ca4b8ec74c89fd78fbfbf28f1
+      internalID: 1585793467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Stage_Trap5_boom_23
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 0
+        width: 736
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e833fbb2e5b06e34ca401b34802d2417
+      internalID: -831444836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Stage_Trap5_boom_24
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 0
+        width: 736
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f46f5d5ca89084aaa511aa7c3ee76c
+      internalID: -21287434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f4f7e5ae520617a4fba3bc19ee4b5c3f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":5.0},"gridSpriteSize":{"x":736.0,"y":544.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      4Stage_Trap5_boom_0: -204836738
+      4Stage_Trap5_boom_1: -814640812
+      4Stage_Trap5_boom_10: 702143511
+      4Stage_Trap5_boom_11: -351382459
+      4Stage_Trap5_boom_12: -1395598550
+      4Stage_Trap5_boom_13: 1979052486
+      4Stage_Trap5_boom_14: -1154482337
+      4Stage_Trap5_boom_15: -1481657053
+      4Stage_Trap5_boom_16: 1199358029
+      4Stage_Trap5_boom_17: -1178551424
+      4Stage_Trap5_boom_18: 61235244
+      4Stage_Trap5_boom_19: -2091822234
+      4Stage_Trap5_boom_2: -1423169536
+      4Stage_Trap5_boom_20: 1839617919
+      4Stage_Trap5_boom_21: -1946865857
+      4Stage_Trap5_boom_22: 1585793467
+      4Stage_Trap5_boom_23: -831444836
+      4Stage_Trap5_boom_24: -21287434
+      4Stage_Trap5_boom_3: -245703910
+      4Stage_Trap5_boom_4: 14116058
+      4Stage_Trap5_boom_5: -1321644127
+      4Stage_Trap5_boom_6: -2138155691
+      4Stage_Trap5_boom_7: 1354748265
+      4Stage_Trap5_boom_8: -1391224920
+      4Stage_Trap5_boom_9: 856035173
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

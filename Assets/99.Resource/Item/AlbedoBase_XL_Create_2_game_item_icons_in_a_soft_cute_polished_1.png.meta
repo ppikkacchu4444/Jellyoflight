@@ -1,0 +1,799 @@
+fileFormatVersion: 2
+guid: d8c5bc86b7bca484d864493d607da7bd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 665
+        width: 90
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a335c33c8fbf14a9197f40ec56e5bf
+      internalID: -685478305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_1
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 502
+        width: 261
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d8f4d3258712b488e28dcce92987ec
+      internalID: -1578190786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_2
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 695
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d517c67a9bc50541bd9933376a1f2ad
+      internalID: 1192393964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_3
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 680
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de42b6222ab8d654b93834d028138a4c
+      internalID: -1310354394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 497
+        width: 196
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497450a69385ace448c119fc17ef1f83
+      internalID: 194706952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 557
+        width: 4
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03f5214673e6f24b87507404842df3a
+      internalID: -1766554287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_6
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 503
+        width: 167
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44141bca59f6f8d4bbcd9fb51a746686
+      internalID: 1363728895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_7
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 490
+        width: 58
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9c149b461bdbf45938080d2241a19c
+      internalID: -1532639666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_8
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 509
+        width: 169
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e21f9c59a23a34b9376c700a2854b6
+      internalID: 1408010589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_9
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 585
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5bdf4107058e246b3da787cdd7c5aa
+      internalID: 2084621215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_10
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 499
+        width: 172
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44eeee6d6d49595448ded61bab542599
+      internalID: -191445988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_11
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 306
+        width: 20
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2cdc2769f56ac4c9f915b97ef97e76
+      internalID: -1890866477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_12
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 270
+        width: 173
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bd7dfc8e452684e9008abd5418d994
+      internalID: -750160064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_13
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 270
+        width: 175
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea09112f3e833fa43972533bc23b3c00
+      internalID: -1928917994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_14
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 276
+        width: 155
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae72d61c839fba448e7c70295bb18f5
+      internalID: 939510059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_15
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 278
+        width: 64
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25727ad6327f9b8478093462cf5c2376
+      internalID: 1808128822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_16
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 282
+        width: 147
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07095af00e32744b89bb19fc62c4dc2
+      internalID: -1852936227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_17
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 269
+        width: 199
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478b4937c01c9cc44a00ddc3457b28fc
+      internalID: -1125643480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_18
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 368
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c71b99b8106a14ea1d089e04449e63
+      internalID: 768929466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 200
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec429bca874141459c57f381b6c1695
+      internalID: -551256006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_20
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 50
+        width: 188
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e08e36a52730634a8934c0fef728c69
+      internalID: 896711692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_21
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 56
+        width: 150
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f99920a2b2786d4e87fa3c5dd749fbd
+      internalID: -480585922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_22
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 50
+        width: 78
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdf9cd0e0e6bba4983c59e8d9434409
+      internalID: 618827815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_23
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 58
+        width: 154
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb4683459ecb014b8f37056ae420703
+      internalID: 512788645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_24
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 53
+        width: 176
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565701aa0bae15c4ebd2b840e817b4ae
+      internalID: 788924809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_25
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 49
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61995bd8ff55ed44adc98615b8d226a
+      internalID: -1606221878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 6
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e508bd497cbb44996ddc954c247417
+      internalID: 1631533460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_27
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 6
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f61f514dc322514494ef29fe4a12aad
+      internalID: -419975357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_28
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 1
+        width: 4
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7175e40ca7de132468e2bbabb2eda302
+      internalID: -867086476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a7647ed562ae27040b35a5414e514527
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_0: -685478305
+      AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_1: -1578190786
+      AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_10: -191445988
+      AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_11: -1890866477
+      AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_12: -750160064
+      AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_13: -1928917994
+      AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_14: 939510059
+      AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_15: 1808128822
+      AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_16: -1852936227
+      AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_17: -1125643480
+      AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_18: 768929466
+      AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_19: -551256006
+      AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_2: 1192393964
+      AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_20: 896711692
+      AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_21: -480585922
+      AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_22: 618827815
+      AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_23: 512788645
+      AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_24: 788924809
+      AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_25: -1606221878
+      AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_26: 1631533460
+      AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_27: -419975357
+      AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_28: -867086476
+      AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_3: -1310354394
+      AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_4: 194706952
+      AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_5: -1766554287
+      AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_6: 1363728895
+      AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_7: -1532639666
+      AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_8: 1408010589
+      AlbedoBase_XL_Create_2_game_item_icons_in_a_soft_cute_polished_1_9: 2084621215
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
