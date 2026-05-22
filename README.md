@@ -26,4 +26,5 @@ Dive into a visually rich and immersive jelly universe, designed for short yet i
 
 <img width="802" height="450" alt="jellyoflight" src="https://github.com/user-attachments/assets/a0894299-0151-4e95-afd3-de3d9b29516b" />
 
-https://youtu.be/fqndcpUI_KA?si=oEBG4DErklYYmdJ_
+## 📺 YouTube
+(https://youtu.be/fqndcpUI_KA?si=Ge_RDSAMX-HCsKXe)
